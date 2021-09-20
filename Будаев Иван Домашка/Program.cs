@@ -18,7 +18,7 @@ namespace Будаев_Иван_Домашка
                 Console.ReadKey();
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 {
-                    Console.WriteLine("Вы помните, Вы всё, конечно, помните, Как я стоял, Приблизившись к стене,");
+                    Console.WriteLine("Вы помните, Вы всё, конечно, помните, как я стоял, Приблизившись к стене,");
                     Console.ReadKey();
                     Console.WriteLine("Взволновано ходили вы по комнате И что-то резкое в лицо бросали мне");
                     Console.ReadKey();
